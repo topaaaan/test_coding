@@ -1,0 +1,26 @@
+// cara running
+- clone atau download repositories
+- simpan folder di dalam server apache dengan nama folder = "test_coding"
+- import file "webdev_test.sql" yang ada difolder database kedalam mysql komputer anda
+- buka browser dan jalankan "http://localhost/test_coding/"
+
+// cara login
+- klik tombol login
+- masukan username = 'topan'
+- masukan password = '123456'
+
+// cara tambah data
+- setelah login klik tombol "Tambah Data"
+- pilih rack & book yg ingin disubmit lalu klik "submit"
+
+// cara edit data
+- pilih data yg ingin di edit
+- klik tombol "edit"
+- pilih rack & book yg ingin diedit lalu klik "edit"
+
+// cara delete data
+- pilih data yg ingin di delete
+- klik tombol "delete"
+
+// cara logout
+- klik tombol "logout"
